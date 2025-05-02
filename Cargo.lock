@@ -7,5 +7,9 @@ name = "fizzbuzz-ext"
 version = "0.1.0"
 
 [[package]]
+name = "json-formatter"
+version = "0.1.0"
+
+[[package]]
 name = "kaibun-checker"
 version = "0.1.0"
