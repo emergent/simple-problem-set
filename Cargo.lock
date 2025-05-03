@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "kaibun-checker"
 version = "0.1.0"
+
+[[package]]
+name = "prime-generator"
+version = "0.1.0"
